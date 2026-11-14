@@ -1,10 +1,4 @@
-# Hi, I'm Sohail 👋
-
-CSE student and web developer. I like building clean, fast websites with plain HTML and CSS, no frameworks needed.
-
-## 🛠️ What I Work With
-
-<h1 align="center">Hey, I'm Sohail 👋</h1>
+<h1 align="center">Supp, I'm Sohail 👋</h1>
 
 <p align="center">
   CSE student • Web developer • Linux & hardware tinkerer • Cybersecurity enthusiast
