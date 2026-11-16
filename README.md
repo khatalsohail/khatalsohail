@@ -52,4 +52,4 @@ I'm a Computer Science student who loves working with tech. I'm still early in m
 - 📧 Email: khatalsohail.08@gmail.com
 
 
-⭐ Always learning, always building.
+<p align = "center">⭐ Always learning, always building.</p>
